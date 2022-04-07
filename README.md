@@ -26,7 +26,7 @@ simple framework for masked image modeling. From systematically study, we find t
     <img src="figures/teaser.jpg" height="250px" />
 </div>
 
-## Main Results on ImageNet
+## Main Results on ImageNet:
 
 ### Swin Transformer
 
